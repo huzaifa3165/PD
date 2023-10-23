@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main() {
+main()
+{
     cout << ";-.          ___, " << endl;
     cout << "  `.`\\_...._/`.-`\"" << endl;
     cout << "    \\        /      ," << endl;
@@ -16,6 +17,4 @@ int main() {
     cout << "     >   \\    /" << endl;
     cout << "    (_,-'`> .'" << endl;
     cout << "         (_,'," << endl;
-
-    return 0;
 }
